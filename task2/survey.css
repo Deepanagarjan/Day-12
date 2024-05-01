@@ -1,0 +1,16 @@
+.star{
+    list-style: none;
+    color: red;
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: 35px;
+
+}
+span{
+    color: red;
+}
+#comment{
+    width: 800px;
+    height: 150px;
+}
