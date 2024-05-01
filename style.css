@@ -1,0 +1,92 @@
+.logo
+{
+    width: 100%;
+    border: 2px solid black;
+    position: relative;
+    float: left;
+    display: flex;
+    background-color: #322C2B;
+   
+
+}
+.logo i{
+    font-size: 50px;
+    color: white;
+    
+}
+.github{
+    padding-left: 700px;
+  color: white;
+}
+.a{
+
+    border: 2px solid black;
+width: 250px;
+height: 500px;
+border-radius: 15px;
+background-color: #322C2B;
+}
+section{
+    padding: 300px 0 300px 100px;
+    border:2px solid black;
+    position: relative;
+   display: flex;
+}
+ .search{
+    padding-left: 30px;
+    border: 2px solid black;
+    margin-left: 600px;
+    position: relative;
+    top: 400px;
+    width: 600px;
+    height: 70px;
+    
+    background-color: #322C2B;
+ font-size: 20px;
+    border-radius: 15px;
+}
+
+.box{
+    border: 2px solid black;
+   
+    width: 200px;
+    height: 200px;
+    background-color: #322C2B;
+    border-radius: 15px;
+}
+.ball{
+    border: 2px solid black;
+   
+    width: 200px;
+    height: 200px;
+    background-color: #322C2B;
+    border-radius: 15px;
+}
+.bat{
+    border: 2px solid black;
+    
+    width: 200px;
+    height: 200px;
+    background-color: #322C2B;
+    border-radius: 15px;
+}
+.row{
+    position: relative;
+    display: flex;
+    float: left;
+    padding: 100px;
+}
+.row .col{
+    padding: 50px;
+}
+.rec{
+    border: 2px solid black;
+    width: 650px;
+    height: 200px;
+    background-color: #322C2B;
+    border-radius: 15px;
+    position: relative;
+    bottom: -400px;
+    left: 250px;
+}
+
